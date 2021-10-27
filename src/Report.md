@@ -26,4 +26,3 @@ https://github.com/KateKomratova/Java.Task1/issues/1#issue-1035522647
 Тестирование производилось в следующем окружении:
 * MacOS Big Sur Версия 11.6 64-бит
 * Java 11.0.12
-* <другое ПО, при необходимости>
