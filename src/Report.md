@@ -17,9 +17,9 @@ https://github.com/KateKomratova/Java.Task1/issues/1#issue-1035522647
 
 
 В качестве тестовых данных использовались данные https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md:
-* текущий баланс счёта клиента: customer_account = 2_000_000_000;
+* текущий баланс счёта клиента: customerAccount = 2_000_000_000;
 ожидаемый результат: 2000000000.
-* сумма перевода: transfer_amount = 500_000_000; 
+* сумма перевода: transferAmount = 500_000_000; 
 ожидаемый результат: 500000000.
 
 
